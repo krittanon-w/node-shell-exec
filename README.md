@@ -1,5 +1,5 @@
 # node-shell-exec
-easy shell execute for nodejs
+> easy shell execute for nodejs
 
 ## Execute single command
 
