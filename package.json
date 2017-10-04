@@ -1,0 +1,12 @@
+{
+  "name": "node-shell-exec",
+  "version": "1.0.0",
+  "description": "easy shell execute for nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/krittanon-w/node-shell-exec",
+  "author": "Krittanon.w <krittanon.w@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
