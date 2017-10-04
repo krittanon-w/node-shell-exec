@@ -5,10 +5,9 @@ shell.exec('brew list', (err) => {
     console.log('done executed single command')
 })
 
-
 console.log('series command')
 shell.series([
     'brew list', 'ls -al', 'ifconfig'
-], function (err) {
+], (err) => {
     console.log('done executed series command')
 })
